@@ -7,3 +7,13 @@ This repo is where I'll be sharing my progress as I learn the basics and take on
 Feel free to follow along, give me pointers, or just see what I'm up to. 
 
 Thanks for stopping by!
+
+
+## Recent Updates
+- Added `hello_world.py` script that prints "Hello, world!"
+- Created a branch `feature-hello-world`, made changes, and successfully merged it into the `main` branch.
+
+## Next Steps
+- Continue learning and building projects.
+- Explore more GitHub features like Issues, Projects, and Actions.
+- Start a new project or add new features to the current project.
